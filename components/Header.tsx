@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className="">
       <Container>
-        <div className="flex h-24 h-full items-center justify-between gap-4 border-b border-gray-200">
+        <div className="flex h-24 items-center justify-between gap-4 border-b border-gray-200">
           <p className="bg-gradient-to-r from-cyan-500 to-blue-500 bg-clip-text text-3xl font-bold text-transparent">
             <Link href="/dashboard">Invoicing App</Link>
           </p>
