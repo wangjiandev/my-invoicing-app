@@ -15,7 +15,7 @@ import Link from 'next/link'
 
 export default function Page() {
   return (
-    <main className="mx-auto flex h-full max-w-5xl flex-col gap-6">
+    <main className="mx-auto my-8 flex h-full max-w-5xl flex-col gap-6">
       <div className="flex items-center justify-between">
         <h1 className="text-5xl font-bold">Invoices</h1>
         <div>
